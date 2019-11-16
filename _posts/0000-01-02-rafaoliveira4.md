@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+if(true){
+alert("all thinghs is true"}
 Use the left arrow to go back
